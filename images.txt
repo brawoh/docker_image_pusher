@@ -10,3 +10,4 @@ corentinth/it-tools:nightly
 rustdesk/rustdesk-server
 #registry.cn-shenzhen.aliyuncs.com/star7th/showdoc:latest
 star7th/showdoc
+log-lottery
