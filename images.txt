@@ -5,9 +5,5 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 vaultwarden/server
-corentinth/it-tools:latest
-corentinth/it-tools:nightly
 rustdesk/rustdesk-server
-#registry.cn-shenzhen.aliyuncs.com/star7th/showdoc:latest
 star7th/showdoc
-log-lottery
